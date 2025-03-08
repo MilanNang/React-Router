@@ -18,7 +18,7 @@ function Header() {
             <ul className="flex space-x-6">
                 <li>
                     <NavLink
-                        to="/Home"
+                        to="/"
                         className={({ isActive }) =>
                             isActive ? "text-orange-600 font-bold" : "hover:text-orange-600"
                         }
@@ -49,16 +49,7 @@ function Header() {
             </ul>
         </nav>
 
-        {/* Log In */}
-        <div>
-            <NavLink
-                to="/Login"
-                className={({ isActive }) =>
-                    isActive ? "text-gray-300 font-bold" : "hover:text-gray-300"
-                } >
-                Log In
-            </NavLink>
-        </div>
+        
         
     </div>
 </header>

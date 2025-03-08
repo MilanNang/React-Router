@@ -1,6 +1,6 @@
 import React from 'react'
 import Header from './Componets/Header/Header'
-import Home from './Componets/Home'
+import Home from '../Home'
 import About from './Componets/About/About'
 import { Outlet } from 'react-router'
 import Futer from './Componets/Futer/futer'
