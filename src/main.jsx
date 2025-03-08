@@ -9,7 +9,8 @@ import Layout from './Layout.jsx'
 import About from './Componets/About/About.jsx'
 import Contectus from './Componets/Contectus/Contectus.jsx'
 import Login from './Componets/Login/Login.jsx'
-import Home2 from './Componets/Header/home2.jsx'
+import Home2 from "./Components/Header/home2.jsx";
+
 import User from './Componets/User.jsx'
 
 
