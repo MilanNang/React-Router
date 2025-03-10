@@ -1,9 +1,7 @@
 import React from 'react'
-import Header from './Componets/Header/Header'
-import Home from '../Home'
-import About from './Componets/About/About'
+import Header from './Components/Header/Header'
 import { Outlet } from 'react-router'
-import Futer from './Componets/Futer/futer'
+import Futer from './Components/Futer/Futer'
 
 function Layout() {
   return (

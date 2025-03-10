@@ -3,12 +3,12 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.jsx'
 import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } from 'react-router'
-import Header from './Componets/Header/Header.jsx'
+
 import Layout from './Layout.jsx'
-import About from './Componets/About/About.jsx'
-import Contectus from './Componets/Contectus/Contectus.jsx'
-import Home2 from './Componets/Header/Home2.jsx'
-import User from './Componets/User.jsx'
+import About from './Components/About/About.jsx'
+import Contectus from './Components/Contectus/Contectus.jsx'
+import Home2 from './Components/Header/Home2.jsx'
+import User from './Components/User.jsx'
 
 
 
