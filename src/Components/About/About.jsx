@@ -20,7 +20,7 @@ function About() {
       {/* Image Content */}
       <div className="w-full md:w-1/2">
         <img
-          src="lion77.jpeg"
+        src='https://media.istockphoto.com/id/537356122/photo/curious-lion.jpg?s=612x612&w=0&k=20&c=rDt9NtKwWCj2NN0Pd2ihN4xjgXBAhzuzuvbmmP_H9Nk='
           alt="Lion in the Wild"
           className="rounded-lg shadow-lg w-full"
         />
