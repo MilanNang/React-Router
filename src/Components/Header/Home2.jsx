@@ -3,7 +3,7 @@ import React from 'react'
 function Home2() {
   return (
     <>
-    <section className="relative bg-cover bg-center h-96" style={{ backgroundImage: 'url(https://girlion.gujarat.gov.in/asset/images/Gallery/01.jpg)' }}>
+    <section className="relative bg-cover bg-center h-96" style={{ backgroundImage: 'url(https://t3.ftcdn.net/jpg/11/59/01/38/240_F_1159013895_hQItQGN0AdOiPbWr1SBHQnzKyGjbvYei.jpg)' }}>
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <div className="container mx-auto text-center text-white relative z-10">
           <h2 className="text-4xl font-bold py-20">Experience the Wild Beauty of Lions</h2>
